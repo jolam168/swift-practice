@@ -1,0 +1,30 @@
+PODS:
+  - InputBarAccessoryView (4.2.2)
+  - MessageInputBar (0.4.1):
+    - MessageInputBar/Core (= 0.4.1)
+  - MessageInputBar/Core (0.4.1)
+  - MessageKit (3.0.0):
+    - InputBarAccessoryView (~> 4.2.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - MessageInputBar
+  - MessageKit (~> 3.0.0-swift5)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - InputBarAccessoryView
+    - MessageInputBar
+    - MessageKit
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  InputBarAccessoryView: 2b937602598e2fab3149f37f51dd7ad795653812
+  MessageInputBar: e81c7535347f1f7b923de7080409a535a004b6e4
+  MessageKit: e892a9ca49ebe6d82684d3a93ad84021fa23e2c6
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 148fbebec51a8caac8f9f58aae52c23d72526791
+
+COCOAPODS: 1.8.4
